@@ -1,9 +1,9 @@
 def print_greeting(x)
 
-if condition
-  block //only if condition is met 
+if x == "hello"
+  puts "Hey - how are you?"
 else
-  block //only if condition is not method
+  puts "Same to you buddy"
 end
 
 end
