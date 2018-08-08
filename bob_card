@@ -1,4 +1,9 @@
-def print_greeting(name)
-puts "hello #{name}"
-name = Ben
+def print_greeting(x)
+
+if condition
+  block //only if condition is met 
+else
+  block //only if condition is not method
+end
+
 end
